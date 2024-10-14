@@ -1,0 +1,620 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\domain\\entities\\employeedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\domain\\entities\\employeedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\domain\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\middlewares\\auditmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\middlewares\\auditmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\data\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\data\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\data\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\data\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\domain\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\domain\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\domain\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\domain\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\domain\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\domain\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\domain\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\domain\\interfaces\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\domain\\entities\\requestaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\domain\\entities\\requestaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\domain\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\domain\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\domain\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\domain\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\domain\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\domain\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\data\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\data\\repositories\\employeedepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\data\\repositories\\employeedepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\data\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\data\\repositories\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\data\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\data\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\data\\interfaces\\iemployeedepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\data\\interfaces\\iemployeedepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\data\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\data\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\data\\contexts\\hrmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\data\\contexts\\hrmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\domain\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\domain\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\domain\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\domain\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\common\\exceptions\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\common\\exceptions\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\migrations\\20241012055142_entities-updated-v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\migrations\\20241012055142_entities-updated-v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\migrations\\20241010070151_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\migrations\\20241010070151_initial-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\hrmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\hrmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\migrations\\20241012091010_entities-updated-v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\migrations\\20241012091010_entities-updated-v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\migrations\\20241012090915_entities-updated-v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\migrations\\20241012090915_entities-updated-v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\migrations\\20241012085352_entities-updated-v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\migrations\\20241012085352_entities-updated-v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|c:\\users\\mathu\\onedrive\\desktop\\hrmanagement\\hrmanagement\\migrations\\20241012050649_entities-updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910AB0A3-12C7-40EC-BDB4-1745EB3163F5}|HRManagement\\HRManagement.csproj|solutionrelative:hrmanagement\\migrations\\20241012050649_entities-updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Repositories\\EmployeeDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Data\\Repositories\\EmployeeDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Repositories\\EmployeeDepartmentRepository.cs",
+              "RelativeToolTip": "HRManagement\\Data\\Repositories\\EmployeeDepartmentRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:15:59.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEmployeeDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Interfaces\\IEmployeeDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Data\\Interfaces\\IEmployeeDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Interfaces\\IEmployeeDepartmentRepository.cs",
+              "RelativeToolTip": "HRManagement\\Data\\Interfaces\\IEmployeeDepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:15:37.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "HRManagement\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:27:09.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241012091010_Entities-Updated-V4.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Migrations\\20241012091010_Entities-Updated-V4.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Migrations\\20241012091010_Entities-Updated-V4.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Migrations\\20241012091010_Entities-Updated-V4.cs",
+              "RelativeToolTip": "HRManagement\\Migrations\\20241012091010_Entities-Updated-V4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:10:10.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241012090915_Entities-Updated-V3.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Migrations\\20241012090915_Entities-Updated-V3.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Migrations\\20241012090915_Entities-Updated-V3.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Migrations\\20241012090915_Entities-Updated-V3.cs",
+              "RelativeToolTip": "HRManagement\\Migrations\\20241012090915_Entities-Updated-V3.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:09:16.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "HRManagement\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwF0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:56:55.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241012085352_Entities-Updated-V2.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Migrations\\20241012085352_Entities-Updated-V2.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Migrations\\20241012085352_Entities-Updated-V2.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Migrations\\20241012085352_Entities-Updated-V2.cs",
+              "RelativeToolTip": "HRManagement\\Migrations\\20241012085352_Entities-Updated-V2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T08:53:52.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "HRManagement\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAmwHEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:54:47.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241012055142_Entities-Updated-V1.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Migrations\\20241012055142_Entities-Updated-V1.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Migrations\\20241012055142_Entities-Updated-V1.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Migrations\\20241012055142_Entities-Updated-V1.cs",
+              "RelativeToolTip": "HRManagement\\Migrations\\20241012055142_Entities-Updated-V1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:51:42.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Data\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "HRManagement\\Data\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:27:11.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\DTOs\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Domain\\DTOs\\DepartmentDto.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\DTOs\\DepartmentDto.cs",
+              "RelativeToolTip": "HRManagement\\Domain\\DTOs\\DepartmentDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:10:39.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Domain\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "HRManagement\\Domain\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:10:18.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\DTOs\\ClientDto.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Domain\\DTOs\\ClientDto.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\DTOs\\ClientDto.cs",
+              "RelativeToolTip": "HRManagement\\Domain\\DTOs\\ClientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:10:06.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241012050649_Entities-Updated.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Migrations\\20241012050649_Entities-Updated.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Migrations\\20241012050649_Entities-Updated.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Migrations\\20241012050649_Entities-Updated.cs",
+              "RelativeToolTip": "HRManagement\\Migrations\\20241012050649_Entities-Updated.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:06:50.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241010070151_Initial-Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Migrations\\20241010070151_Initial-Migration.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Migrations\\20241010070151_Initial-Migration.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Migrations\\20241010070151_Initial-Migration.cs",
+              "RelativeToolTip": "HRManagement\\Migrations\\20241010070151_Initial-Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T07:01:52.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Program.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Program.cs",
+              "RelativeToolTip": "HRManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T06:42:34.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "HRManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\appsettings.json",
+              "RelativeToolTip": "HRManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T06:40:02.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuditMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Middlewares\\AuditMiddleware.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Middlewares\\AuditMiddleware.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Middlewares\\AuditMiddleware.cs",
+              "RelativeToolTip": "HRManagement\\Middlewares\\AuditMiddleware.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:49:51.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Domain\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "HRManagement\\Domain\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAEgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:49:21.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Domain\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "HRManagement\\Domain\\Services\\DepartmentService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:48:51.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Domain\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Services\\ClientService.cs",
+              "RelativeToolTip": "HRManagement\\Domain\\Services\\ClientService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA7wCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:48:35.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Domain\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "HRManagement\\Domain\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:44:06.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Domain\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "HRManagement\\Domain\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:43:08.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Interfaces\\IClientService.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Domain\\Interfaces\\IClientService.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Interfaces\\IClientService.cs",
+              "RelativeToolTip": "HRManagement\\Domain\\Interfaces\\IClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:42:51.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RequestAudit.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Entities\\RequestAudit.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Domain\\Entities\\RequestAudit.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Entities\\RequestAudit.cs",
+              "RelativeToolTip": "HRManagement\\Domain\\Entities\\RequestAudit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:42:20.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Entities\\EmployeeDepartment.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Domain\\Entities\\EmployeeDepartment.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Entities\\EmployeeDepartment.cs",
+              "RelativeToolTip": "HRManagement\\Domain\\Entities\\EmployeeDepartment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:41:58.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Domain\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Entities\\Department.cs",
+              "RelativeToolTip": "HRManagement\\Domain\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:41:36.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "HRManagement\\Domain\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:41:15.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Domain\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Domain\\Entities\\Client.cs",
+              "RelativeToolTip": "HRManagement\\Domain\\Entities\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:41:06.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Data\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "HRManagement\\Data\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowB8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:40:43.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Repositories\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Data\\Repositories\\DepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Repositories\\DepartmentRepository.cs",
+              "RelativeToolTip": "HRManagement\\Data\\Repositories\\DepartmentRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAA7wDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:40:28.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Data\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "HRManagement\\Data\\Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwBEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:40:12.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Data\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "HRManagement\\Data\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:39:11.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Interfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Data\\Interfaces\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Interfaces\\IClientRepository.cs",
+              "RelativeToolTip": "HRManagement\\Data\\Interfaces\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:38:51.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HRManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Contexts\\HRManagementDbContext.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Data\\Contexts\\HRManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Data\\Contexts\\HRManagementDbContext.cs",
+              "RelativeToolTip": "HRManagement\\Data\\Contexts\\HRManagementDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:38:09.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Common\\Exceptions\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "HRManagement\\Common\\Exceptions\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\Common\\Exceptions\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "HRManagement\\Common\\Exceptions\\CustomExceptionFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:37:19.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HRManagement.csproj",
+              "DocumentMoniker": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\HRManagement.csproj",
+              "RelativeDocumentMoniker": "HRManagement\\HRManagement.csproj",
+              "ToolTip": "C:\\Users\\Mathu\\OneDrive\\Desktop\\HRManagement\\HRManagement\\HRManagement.csproj",
+              "RelativeToolTip": "HRManagement\\HRManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-10T05:33:24.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
